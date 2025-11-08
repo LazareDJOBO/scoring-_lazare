@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+mydjobo/
+
+#
+# Fichiers de logs
+*.log
+
+# Modèles sauvegardés
+*.pkl
+
+# Docker
+*.dockerignore
+
+# IDE / éditeurs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
