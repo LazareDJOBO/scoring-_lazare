@@ -16,3 +16,5 @@ tqdm
 plotly
 python-multipart
 imbalanced-learn
+gunicorn
+
